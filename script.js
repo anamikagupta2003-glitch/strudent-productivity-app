@@ -1,1 +1,3 @@
-console.log("Student Productivity App Loaded Successfully");
+function showMessage() {
+  alert("Welcome to Student Productivity App!");
+}
